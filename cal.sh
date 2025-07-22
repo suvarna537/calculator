@@ -1,4 +1,4 @@
 #!/bin/bash
 cal
-ls -lrt
+ls -lt
 ifconfig
